@@ -5,6 +5,9 @@ Number of downloads:
   * 70k per month (as of Jan 2024, [pypi stats](https://pypistats.org/packages/casadi))
 
 
+![GitHub Repo stars](https://img.shields.io/github/stars/casadi/casadi)
+
+
 
 List of tools dependent on CasADi
  1. JModelica.org
