@@ -3,8 +3,8 @@ Number of citations:
     
 Number of downloads:
   * Python
-    * ![PyPI](https://img.shields.io/pypi/dm/casadi)
-    * ![Conda](https://img.shields.io/conda/d/conda-forge/casadi)
+    * pypi: ![PyPI](https://img.shields.io/pypi/dm/casadi)
+    * conda: ![Conda](https://img.shields.io/conda/d/conda-forge/casadi)
 
   * Github releases
     * ![GitHub all releases](https://img.shields.io/github/downloads/casadi/casadi/total)
