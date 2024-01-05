@@ -3,3 +3,23 @@ Number of citations:
     
 Number of downloads:
   * 70k per month (as of Jan 2024, [pypi stats](https://pypistats.org/packages/casadi))
+
+
+List of tools dependent on CasADi
+ * JModelica.org
+ * omg-tools
+ * MPC-tools
+ * RTC-tools
+ * openocl.org
+ * rockit
+ * yop
+ * do-mpc
+ * hilo-mpc
+ * MATMPC
+ * Optimization Engine
+ * acados
+
+List of commercial tools dependent on CasADi
+ * Modelon impact
+ * Forces PRO
+ * OASE
