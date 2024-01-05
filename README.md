@@ -7,6 +7,10 @@ Number of downloads:
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/casadi/casadi)
 
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC3VDpv5Pi3R-a2VkcJN1RLw)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC3VDpv5Pi3R-a2VkcJN1RLw)
+
+
 
 
 List of tools dependent on CasADi
