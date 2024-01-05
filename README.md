@@ -2,9 +2,14 @@ Number of citations:
   * 3714 (as of Jan 2024, [google scholar](https://scholar.google.com/citations?user=EGVRNtEAAAAJ&hl=en&oi=sra), sum of 3 main)
     
 Number of downloads:
-  * ![PyPI - Downloads](https://img.shields.io/pypi/dm/casadi)
-  * ![Conda Downloads](https://img.shields.io/conda/d/conda-forge/casadi)
-  
+  * Python
+    * ![PyPI](https://img.shields.io/pypi/dm/casadi)
+    * ![Conda](https://img.shields.io/conda/d/conda-forge/casadi)
+
+  * Github releases
+    * ![GitHub all releases](https://img.shields.io/github/downloads/casadi/casadi/total)
+
+
 
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/casadi/casadi)
