@@ -51,3 +51,5 @@ List of books featuring CasADi
 
 Companies using CasADi
  1. ionworks https://ion-works.com/
+ 2. NASA
+ 3. Modelon
