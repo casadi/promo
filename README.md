@@ -5,8 +5,13 @@ Number of downloads:
   * Python
     * pypi: ![PyPI](https://img.shields.io/pypi/dm/casadi)
     * conda: ![Conda](https://img.shields.io/conda/d/conda-forge/casadi)
+    * github releases: 1000 per month (as of January 2024) (github_stats.py) 
+  * Matlab
+    * 1100 per month (as of January 2024) (github_stats.py)
+  * Octave
+    * 65 per month (as of January 2024) (github_stats.py)
 
-  * Github releases
+  * Github releases lumped together
     * ![GitHub all releases](https://img.shields.io/github/downloads/casadi/casadi/total)
 
 
