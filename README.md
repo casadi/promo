@@ -47,3 +47,7 @@ List of commercial tools dependent on CasADi
 
 List of books featuring CasADi
  1. [Model Predictive Control: Theory, Computation, and Design](https://sites.engineering.ucsb.edu/~jbraw/mpc/)
+
+
+Companies using CasADi
+ 1. ionworks https://ion-works.com/
