@@ -16,7 +16,6 @@ Number of downloads:
 
 Number of users (internation_kpi sheet, as of January 2024)
   * 77 universities (subscribed to newsletter and/or training activities)
-  * 10 academic research projects (KU Leuven)
   * 30 organizations (commercial and subsidized)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/casadi/casadi)
@@ -59,7 +58,18 @@ List of books featuring CasADi
  1. [Model Predictive Control: Theory, Computation, and Design](https://sites.engineering.ucsb.edu/~jbraw/mpc/)
 
 
-Companies using CasADi
+Companies using CasADi (public disclosure)
  1. ionworks https://ion-works.com/
- 2. NASA
- 3. Modelon
+ 2. Modelon
+
+Research projects using CasADi
+ 1. ROCSIS (KULeuven as partner)
+ 2. ID2CON (KULeuven as partner)
+ 3. AVCON (KULeuven as partner)
+ 4. DriveTrain codedesign (KULeuven as partner)
+ 5. Dirac	SBO (KULeuven as partner)
+ 6. ARENA	SBO (KULeuven as partner)
+ 7. WORKDRIVE	SBO (KULeuven as partner)
+ 8. FROGS  (KULeuven as partner)
+ 9. Assistant	IRVA (KULeuven as partner)
+ 10. ELOX	Marie Curie  (KULeuven as partner)
