@@ -43,6 +43,8 @@ List of tools dependent on CasADi
  12. acados
  13. PyBaMM
  14. Tasho
+ 15. Bioptim
+ 16. [3dpredictsim](https://github.com/antoinefalisse/3dpredictsim)
 
 List of commercial tools dependent on CasADi
  1. Modelon impact
