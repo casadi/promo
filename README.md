@@ -17,7 +17,7 @@ Number of downloads:
 Number of users (internation_kpi sheet, as of January 2024)
   * 77 universities (subscribed to newsletter and/or training activities)
   * 10 academic research projects (KU Leuven)
-  * 9 derived software frameworks
+  * 16 derived software frameworks
   * 30 organizations (commercial and subsidized)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/casadi/casadi)
