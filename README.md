@@ -17,7 +17,6 @@ Number of downloads:
 Number of users (internation_kpi sheet, as of January 2024)
   * 77 universities (subscribed to newsletter and/or training activities)
   * 10 academic research projects (KU Leuven)
-  * 16 derived software frameworks
   * 30 organizations (commercial and subsidized)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/casadi/casadi)
@@ -26,9 +25,7 @@ Number of users (internation_kpi sheet, as of January 2024)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC3VDpv5Pi3R-a2VkcJN1RLw)
 
 
-
-
-List of tools dependent on CasADi (see e.g. https://github.com/meco-group/dynamic_optimization_inventory/blob/main/list.csv)
+List of software tools dependent on CasADi (see e.g. https://github.com/meco-group/dynamic_optimization_inventory/blob/main/list.csv)
  1. JModelica.org
  2. omg-tools
  3. MPC-tools
@@ -47,11 +44,9 @@ List of tools dependent on CasADi (see e.g. https://github.com/meco-group/dynami
  16. [3dpredictsim](https://github.com/antoinefalisse/3dpredictsim)
  17. [Horizon](https://github.com/ADVRHumanoids/horizon)
  18. NOSNOC
-
-List of commercial tools dependent on CasADi
- 1. Modelon impact
- 2. Forces PRO
- 3. OASE, Flanders Make
+ 19. Modelon impact
+ 20. Forces PRO
+ 21. OASE, Flanders Make
 
 List of books featuring CasADi
  1. [Model Predictive Control: Theory, Computation, and Design](https://sites.engineering.ucsb.edu/~jbraw/mpc/)
