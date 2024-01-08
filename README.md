@@ -28,7 +28,7 @@ Number of users (internation_kpi sheet, as of January 2024)
 
 
 
-List of tools dependent on CasADi
+List of tools dependent on CasADi (see e.g. https://github.com/meco-group/dynamic_optimization_inventory/blob/main/list.csv)
  1. JModelica.org
  2. omg-tools
  3. MPC-tools
@@ -45,6 +45,8 @@ List of tools dependent on CasADi
  14. Tasho
  15. Bioptim
  16. [3dpredictsim](https://github.com/antoinefalisse/3dpredictsim)
+ 17. [Horizon](https://github.com/ADVRHumanoids/horizon)
+ 18. NOSNOC
 
 List of commercial tools dependent on CasADi
  1. Modelon impact
