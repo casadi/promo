@@ -28,16 +28,16 @@ Number of users (internation_kpi sheet, as of January 2024)
 List of software tools dependent on CasADi (see e.g. https://github.com/meco-group/dynamic_optimization_inventory/blob/main/list.csv)
  1. JModelica.org
  2. omg-tools
- 3. MPC-tools
+ 3. [MPCTools](https://bitbucket.org/rawlings-group/mpc-tools-casadi/src/master/): MPC and MHE, Rawlings' group
  4. RTC-tools
  5. openocl.org
- 6. rockit
+ 6. [rockit](https://gitlab.kuleuven.be/meco-software/rockit): KU Leuven MECO
  7. yop
- 8. do-mpc
+ 8. [do-MPC](https://github.com/do-mpc/do-mpc): Robust multi-stage MPC, MHE, Lucia's group
  9. hilo-mpc
  10. MATMPC
  11. Optimization Engine
- 12. acados
+ 12. [acados](https://github.com/acados/acados): Real-time MPC, Diehl's group
  13. PyBaMM
  14. Tasho
  15. Bioptim
@@ -47,6 +47,13 @@ List of software tools dependent on CasADi (see e.g. https://github.com/meco-gro
  19. Modelon impact
  20. Forces PRO
  21. OASE, Flanders Make
+ 22. [paresto](https://github.com/rawlings-group/paresto): Parameter estimation, Rawlings' group
+ 23. [TuneMPC](https://github.com/jdeschut/tunempc/): economic tuning of MPC, uses acados and casadi, from Zanon and Diehl
+ 24. [UKF-SNMPC](https://github.com/Eric-Bradford/UKF-SNMPC): Stochastic MPC with UKF (Bradford)
+ 25. [SDD-GP-MPC](https://github.com/Eric-Bradford/SDD-GP-MPC): Gaussian processes and MPC (Bradford)
+ 26. [casiopeia](https://github.com/adbuerger/casiopeia): Parameter estimation and optimal experiment design
+ 27. [NLoed](https://github.com/NateBraniff/NLoed): optimal experiment design
+ 28. [ml-casadi](https://github.com/TUM-AAS/ml-casadi): PyTorch + Casadi
 
 List of books featuring CasADi
  1. [Model Predictive Control: Theory, Computation, and Design](https://sites.engineering.ucsb.edu/~jbraw/mpc/)
