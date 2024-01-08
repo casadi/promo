@@ -53,6 +53,7 @@ List of software tools dependent on CasADi (see e.g. https://github.com/meco-gro
  26. [casiopeia](https://github.com/adbuerger/casiopeia): Parameter estimation and optimal experiment design
  27. [NLoed](https://github.com/NateBraniff/NLoed): optimal experiment design
  28. [ml-casadi](https://github.com/TUM-AAS/ml-casadi): PyTorch + Casadi
+ 29. Fatrop
 
 List of books featuring CasADi
  1. [Model Predictive Control: Theory, Computation, and Design](https://sites.engineering.ucsb.edu/~jbraw/mpc/)
