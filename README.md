@@ -42,6 +42,7 @@ List of tools dependent on CasADi
  11. Optimization Engine
  12. acados
  13. PyBaMM
+ 14. Tasho
 
 List of commercial tools dependent on CasADi
  1. Modelon impact
