@@ -14,7 +14,7 @@ Number of downloads:
   * Github releases lumped together
     * ![GitHub all releases](https://img.shields.io/github/downloads/casadi/casadi/total)
 
-Number of users (internation_kpi sheet)
+Number of users (internation_kpi sheet, as of January 2024)
   * 77 universities (subscribed to newsletter and/or training activities)
   * 10 academic research projects (KU Leuven)
   * 9 derived software frameworks
