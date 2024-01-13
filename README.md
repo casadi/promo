@@ -23,6 +23,10 @@ Number of users (internation_kpi sheet, as of January 2024)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC3VDpv5Pi3R-a2VkcJN1RLw)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC3VDpv5Pi3R-a2VkcJN1RLw)
 
+Projects depending on CasADi:
+  * Python projects on pypi: ![Dependents (via libraries.io)](https://img.shields.io/librariesio/dependents/pypi/casadi)
+
+
 
 List of software tools dependent on CasADi (see e.g. https://github.com/meco-group/dynamic_optimization_inventory/blob/main/list.csv)
  1. JModelica.org
