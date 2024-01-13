@@ -25,6 +25,8 @@ Number of users (internation_kpi sheet, as of January 2024)
 
 Projects depending on CasADi:
   * Python projects on pypi: ![Dependents (via libraries.io)](https://img.shields.io/librariesio/dependents/pypi/casadi)
+  * Github repos: 1700+ (as of January 2024, https://github.com/casadi/casadi/network/dependents )
+  * Github packages: 77 (as of January 2024, https://github.com/casadi/casadi/network/dependents )
 
 
 
