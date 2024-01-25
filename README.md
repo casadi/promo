@@ -70,6 +70,8 @@ List of software tools dependent on CasADi (see e.g. https://github.com/meco-gro
  37. [SIPPY](https://github.com/CPCLAB-UNIPI/SIPPY): System identification
  38. [Monomers to Polymers (m2p)](https://github.com/NREL/m2p)
  39. [MPOPT](https://github.com/mpopt/mpopt): pseudo-spectral collocation methods
+ 40. [AeroSandbox](https://github.com/peterdsharpe/AeroSandbox)
+ 41. [Pymoca](https://github.com/pymoca/pymoca)
 
 List of books featuring CasADi
  1. [Model Predictive Control: Theory, Computation, and Design](https://sites.engineering.ucsb.edu/~jbraw/mpc/)
