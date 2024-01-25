@@ -68,6 +68,7 @@ List of software tools dependent on CasADi (see e.g. https://github.com/meco-gro
  35. [Alpaqa](https://github.com/kul-optec/alpaqa)
  36. [matADi](https://github.com/adtzlr/matadi): Material Definition with Automatic Differentiation.
  37. [SIPPY](https://github.com/CPCLAB-UNIPI/SIPPY): System identification
+ 38. [Monomers to Polymers (m2p)](https://github.com/NREL/m2p)
 
 List of books featuring CasADi
  1. [Model Predictive Control: Theory, Computation, and Design](https://sites.engineering.ucsb.edu/~jbraw/mpc/)
