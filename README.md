@@ -64,6 +64,7 @@ List of software tools dependent on CasADi (see e.g. https://github.com/meco-gro
  31. [OpTaS](https://cmower.github.io/optas/)
  32. [csnlp](https://github.com/FilippoAiraldi/casadi-nlp)
  33. [nmpyc](https://github.com/nMPyC/nmpyc)
+ 34. [OpenAP Trajectory Optimizer](https://github.com/junzis/openap-top/)
 
 List of books featuring CasADi
  1. [Model Predictive Control: Theory, Computation, and Design](https://sites.engineering.ucsb.edu/~jbraw/mpc/)
