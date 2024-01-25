@@ -67,6 +67,7 @@ List of software tools dependent on CasADi (see e.g. https://github.com/meco-gro
  34. [OpenAP Trajectory Optimizer](https://github.com/junzis/openap-top/)
  35. [Alpaqa](https://github.com/kul-optec/alpaqa)
  36. [matADi](https://github.com/adtzlr/matadi): Material Definition with Automatic Differentiation.
+ 37. [SIPPY](https://github.com/CPCLAB-UNIPI/SIPPY): System identification
 
 List of books featuring CasADi
  1. [Model Predictive Control: Theory, Computation, and Design](https://sites.engineering.ucsb.edu/~jbraw/mpc/)
