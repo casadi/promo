@@ -82,6 +82,7 @@ List of books featuring CasADi
 Companies using CasADi (public disclosure)
  1. ionworks https://ion-works.com/
  2. Modelon
+ 3. [Unitree](https://www.unitree.com/) [teleopt stack](https://github.com/unitreerobotics/avp_teleoperate)
 
 Research projects using CasADi
  1. ROCSIS (KULeuven as partner)
