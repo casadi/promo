@@ -60,7 +60,7 @@ List of software tools dependent on CasADi (see e.g. https://github.com/meco-gro
  25. [SDD-GP-MPC](https://github.com/Eric-Bradford/SDD-GP-MPC): Gaussian processes and MPC (Bradford)
  26. [casiopeia](https://github.com/adbuerger/casiopeia): Parameter estimation and optimal experiment design
  27. [NLoed](https://github.com/NateBraniff/NLoed): optimal experiment design
- 28. [ml-casadi](https://github.com/TUM-AAS/ml-casadi): PyTorch + CasADi (superseded by superseded L4CasADi below)
+ 28. [ml-casadi](https://github.com/TUM-AAS/ml-casadi): PyTorch + CasADi (superseded by L4CasADi below)
  29. Fatrop
  30. [L4CasADi](https://github.com/Tim-Salzmann/l4casadi): Use PyTorch models within CasADi
  31. [OpTaS](https://cmower.github.io/optas/)
