@@ -85,6 +85,7 @@ Companies using CasADi (public disclosure)
  1. ionworks https://ion-works.com/
  2. Modelon
  3. IAV https://www.iav.com/INT_en/solutions
+ 4. Embotech https://www.embotech.com/
 
 Research projects using CasADi
  1. ROCSIS (KULeuven as partner)
