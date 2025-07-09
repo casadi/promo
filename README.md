@@ -75,6 +75,7 @@ List of software tools dependent on CasADi (see e.g. https://github.com/meco-gro
  40. [AeroSandbox](https://github.com/peterdsharpe/AeroSandbox)
  41. [Pymoca](https://github.com/pymoca/pymoca)
  42. [mopeds](https://git.tu-berlin.de/dbta/optimization/mopeds)
+ 43. [CADquery](https://github.com/CadQuery/cadquery)
 
 List of books featuring CasADi
  1. [Model Predictive Control: Theory, Computation, and Design](https://sites.engineering.ucsb.edu/~jbraw/mpc/)
