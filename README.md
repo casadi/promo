@@ -1,7 +1,7 @@
 Number of citations:
   * 4520 (as of okt 2024, [google scholar](https://scholar.google.com/citations?user=EGVRNtEAAAAJ&hl=en&oi=sra), sum of 3 main)
   * According to web of science, in 1% of most cited papers in computer science
- * Of all KU Leuven affliated papers since 2019, our journal publication holds rank #9: https://www.webofscience.com/wos/woscc/summary/f20ea858-6fcc-44a7-adce-c9321abbe80b-ff81b2bd/times-cited-descending/1
+ * Of all KU Leuven affliated papers since 2019, our journal publication holds rank #8: https://www.webofscience.com/wos/woscc/summary/f20ea858-6fcc-44a7-adce-c9321abbe80b-ff81b2bd/times-cited-descending/1
     
 Number of downloads:
   * Python
