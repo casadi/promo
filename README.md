@@ -5,7 +5,7 @@ Number of citations:
     
 Number of downloads:
   * Python
-    * pypi: ![PyPI](https://img.shields.io/pypi/dm/casadi)
+    * pypi: ![PyPI](https://img.shields.io/pypi/dm/casadi) - rank 6755 amongst all python packages (as of August 2025, https://hugovk.github.io/top-pypi-packages/)
     * conda: ![Conda](https://img.shields.io/conda/d/conda-forge/casadi)
     * github releases: 1000 per month (as of January 2024) (github_stats.py) 
   * Matlab
