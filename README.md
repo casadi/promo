@@ -30,7 +30,7 @@ Projects depending on CasADi:
   * Github repos: 2300+ (as of November 2024, https://github.com/casadi/casadi/network/dependents )
   * Github packages: 100 (as of November 2024, https://github.com/casadi/casadi/network/dependents )
 
-
+See also: https://github.com/brunoml5/best-of-casadi
 
 List of software tools dependent on CasADi (see e.g. https://github.com/meco-group/dynamic_optimization_inventory/blob/main/list.csv)
  1. JModelica.org
