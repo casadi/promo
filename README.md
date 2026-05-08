@@ -76,6 +76,7 @@ List of software tools dependent on CasADi (see e.g. https://github.com/meco-gro
  41. [Pymoca](https://github.com/pymoca/pymoca)
  42. [mopeds](https://git.tu-berlin.de/dbta/optimization/mopeds)
  43. [CADquery](https://github.com/CadQuery/cadquery)
+ 44. [MAPTOR](https://github.com/maptor/maptor): Multiphase Adaptive Trajectory Optimizer
 
 List of books featuring CasADi
  1. [Model Predictive Control: Theory, Computation, and Design](https://sites.engineering.ucsb.edu/~jbraw/mpc/)
